@@ -14,7 +14,7 @@
 # Settings
 
 ## Version
-APACHE_VERSION=2.4.7
+APACHE_VERSION=2.4.10
 PHP_VERSION=5.5.7
 LIBMCRYPT_VERSION=2.5.8
 APR_VERSION=1.5.0
@@ -24,7 +24,7 @@ LIBPCRE_VERSION=8.33
 # APC_VERSION=3.1.13
 
 ## Download URL
-APACHE_URL=http://www.us.apache.org/dist/httpd/httpd-${APACHE_VERSION}.tar.gz
+APACHE_URL=http://apache.ip-connect.vn.ua//httpd/httpd-${APACHE_VERSION}.tar.gz
 PHP_URL=http://us.php.net/distributions/php-${PHP_VERSION}.tar.gz
 MCRYPT_URL=http://downloads.sourceforge.net/project/mcrypt/MCrypt/2.6.8/mcrypt-2.6.8.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fmcrypt%2F&ts=1352120606&use_mirror=nchc
 MCRYPT_URL=http://downloads.sourceforge.net/project/mcrypt/Libmcrypt/${LIBMCRYPT_VERSION}/libmcrypt-${LIBMCRYPT_VERSION}.tar.gz
