@@ -33,7 +33,7 @@ APR_UTIL_URL=http://www.us.apache.org/dist/apr/apr-util-${APR_UTIL_VERSION}.tar.
 PCRE_URL=ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-${LIBPCRE_VERSION}.tar.gz
 # APC_URL=http://pecl.php.net/get/APC-${APC_VERSION}.tgz
 
-PHALCON_REPO=git://github.com/phalcon/cphalcon.git
+PHALCON_REPO=git://github.com/IAlexanderI/cphalcon.git
 
 ## PATH
 BASE_DIR=/app
